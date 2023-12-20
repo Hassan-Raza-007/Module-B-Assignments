@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(83, 82, 82);
+}
+.main{
+border: 2px solid rgb(66, 64, 64);
+margin: auto;
+width: 60%;
+height: 90vh;
+box-shadow: 5px 5px 15px 0 white;
+background-color: white;
+
+}
+.select{
+    text-align: center;
+    margin-top: 10px;
+    /* margin-bottom: 15px; */
+    border-bottom: 5px solid black;
+}
